@@ -1,3 +1,8 @@
+<?php
+    if($_SERVER["REQUEST_URI"]==="/wiki") {
+        header("Location: http://famolab3-3.fizyka.umk.pl/");
+    }
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -98,7 +103,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="index.html">
+                    <a class="navbar-brand" href="index.php">
                         <img class="logo" src="../assets/logo_resized.png" alt="">
                     </a>
                 </div>
