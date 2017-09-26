@@ -76,7 +76,8 @@ $(document).ready(function() {
             CAN: {fillKey: "active"},
             IND: {fillKey: "active"},
             ITA: {fillKey: "active"},
-            CZE: {fillKey: "active"}
+            CZE: {fillKey: "active"},
+	    MYS: {fillKey: "active"}
         }
     });
 
@@ -85,7 +86,8 @@ $(document).ready(function() {
             { origin: 'POL', destination: 'CAN'},
             { origin: 'POL', destination: 'IND'},
             { origin: 'POL', destination: 'ITA'},
-            { origin: 'POL', destination: 'CZE'}
+            { origin: 'POL', destination: 'CZE'},
+ 	    { origin: 'POL', destination: 'MYS'}
         ],
         { strokeColor: '#2BA587', strokeWidth: 1}
     );
