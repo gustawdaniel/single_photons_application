@@ -69,7 +69,9 @@ $(document).ready(function() {
         },
         geographyConfig: {
             highlightFillColor: '#1C977A',
-            highlightBorderWidth: 0
+            highlightBorderWidth: 0,
+            highlightOnHover: false,
+            popupOnHover: false
         },
         data: {
             POL: {fillKey: "pl"},

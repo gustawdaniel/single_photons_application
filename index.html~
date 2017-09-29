@@ -522,19 +522,9 @@ Sources of photon pairs based on the spontaneous parametric down conversion proc
     <div class="row">
     
     <!--"col-md-8"-->
-        <div class="col-sm-6 col-sm-offset-3">
-
-            <div class="ibox float-e-margins">
-              <!--  <div class="ibox-title">
-                <h5>Map with arc</h5> 
-                </div>-->
-                <div class="ibox-content">
-                    <div id="arc_map"></div>
-                </div>
-            </div>
-        </div>
-        <div class="col-md-3">
-            <div class="ibox float-e-margins">
+    
+    
+				<div class="ibox float-e-margins">
                 <div class="ibox-title">
                     <h5>Canada</h5>
                 </div>
@@ -558,7 +548,22 @@ Sources of photon pairs based on the spontaneous parametric down conversion proc
                 <div class="ibox-content">
                     <p><a target=_blank href="http://www.everyphotoncounts.com">Alberto Tosi</a></p>
                 </div>
+            </div>    
+    
+        <div class="col-sm-6">  <!-- col-sm-offset-3-->
+           <div class="ibox float-e-margins">
+              <!--  <div class="ibox-title">
+                <h5>Map with arc</h5> 
+                </div>-->
+                <div class="ibox-content">
+                    <div id="arc_map"></div>
+                </div>
             </div>
+        </div>
+        
+        
+        
+        <div class="col-md-3">
             <div class="ibox float-e-margins">
                 <div class="ibox-title">
                     <h5>Czech Republic</h5>
@@ -586,7 +591,7 @@ Sources of photon pairs based on the spontaneous parametric down conversion proc
         </div>
     </div>
 </section>
-
+z
 <section id="work-with-us">
     <div class="container">
         <div class="row m-b-lg">
@@ -614,7 +619,7 @@ Sources of photon pairs based on the spontaneous parametric down conversion proc
                             <div class="ibox-content">
                                 <h2>Internships</h2>
                                 <p>
-                                    The Faculty of Physics, Astronomy and Informatics of the Nicolaus Copernicus University in Toruń, Poland, organizes Torun Astrophysics Physics Summer program. Students interested in experimental and/or theoretical quantum optics related to single photon are welcome to apply. <br/> It can be done 1)  when the current program edition is active via TAPS website directly or 2) all year long at spa@fizyka.umk.pl by sending CV (max. 4 pages) and motivation letter (max. 1 page).
+                                    The Faculty of Physics, Astronomy and Informatics of the Nicolaus Copernicus University in Toruń, Poland, organizes Torun Astrophysics Physics Summer program. Students interested in experimental and/or theoretical quantum optics related to single photon are welcome to apply.  It can be done: <br/> 1)  when the current program edition is active via TAPS website directly or <br/> 2) all year long at spa@fizyka.umk.pl by sending CV (max. 4 pages) and motivation letter (max. 1 page).
                                 </p>
                                 <img class="in-column" src="assets/taps2017baner.png" alt="">
                             </div>
