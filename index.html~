@@ -122,12 +122,44 @@
         <li data-target="#inSlider" data-slide-to="1"></li>
     </ol>
     <div class="carousel-inner" role="listbox">
+        
         <div class="item active">
-            <div class="header-back one"></div>
-        </div>
-        <!--<div class="item">-->
-        <!--<div class="header-back two"></div>-->
-        <!--</div>-->
+            <div class="container">
+                <div class="carousel-caption">
+                    <h2>Single Photon Applications Laboratory<br/></h2>
+                    <h3>Nicolaus Copernicus University</h3>
+<!--                    <p>
+                        <a class="btn btn-lg btn-primary" href="#" role="button">READ MORE</a>
+                        <a class="caption-link" href="#" role="button">Inspinia Theme</a>
+                    </p>-->
+                </div>
+                <div class="carousel-image wow zoomIn">
+                    <img src="img/landing/laptop.png" alt="laptop"/>
+                </div>
+            </div>
+            <!-- Set background for slide in css -->
+				<div class="header-back one"></div>           
+       </div>
+       
+        <div class="item">
+            <div class="container">
+                <div class="carousel-caption">
+                    <h2>Single Photon Applications<br/>Laboratory<br/></h2>
+                    <h3>Nicolaus Copernicus University</h3>
+<!--                    <p>
+                        <a class="btn btn-lg btn-primary" href="#" role="button">READ MORE</a>
+                        <a class="caption-link" href="#" role="button">Inspinia Theme</a>
+                    </p>-->
+                </div>
+                <div class="carousel-image wow zoomIn">
+                    <img src="img/landing/laptop.png" alt="laptop"/>
+                </div>
+            </div>
+            <!-- Set background for slide in css -->
+				<div class="header-back one"></div>           
+       </div>       
+       
+
     </div>
     <a class="left carousel-control" href="#inSlider" role="button" data-slide="prev">
         <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -454,7 +486,7 @@ Sources of photon pairs based on the spontaneous parametric down conversion proc
                 <div class="team-member">
                     <img src="img/landing/avatar2.jpg" class="img-responsive img-circle img-small" alt="">
                     <h4><span class="navy">Maria</span> Gieysztor</h4>
-                    <p>PhD student</p>
+                    <p>student</p>
 <!--                    <ul class="list-inline social-icon">
                         <li><a href="#"><i class="fa fa-twitter"></i></a>
                         </li>
