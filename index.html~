@@ -523,7 +523,7 @@ Sources of photon pairs based on the spontaneous parametric down conversion proc
     
     <!--"col-md-8"-->
     
-    
+    <div class="col-md-3">
 				<div class="ibox float-e-margins">
                 <div class="ibox-title">
                     <h5>Canada</h5>
@@ -549,7 +549,7 @@ Sources of photon pairs based on the spontaneous parametric down conversion proc
                     <p><a target=_blank href="http://www.everyphotoncounts.com">Alberto Tosi</a></p>
                 </div>
             </div>    
-    
+     </div>  
         <div class="col-sm-6">  <!-- col-sm-offset-3-->
            <div class="ibox float-e-margins">
               <!--  <div class="ibox-title">
