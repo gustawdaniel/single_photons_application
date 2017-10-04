@@ -100,7 +100,8 @@
                     <span class="icon-bar"></span>
                 </button>
                 <a class="navbar-brand" href="index.php">
-                    <img class="logo" src="../assets/logo_resized.png" alt="">
+<!--                    <img class="logo" src="../assets/logo_resized.png" alt="">-->
+                    <img class="logo" src="../assets/SPAlogoWeb.png" alt="">
                 </a>
             </div>
             <div id="navbar" class="navbar-collapse collapse">
