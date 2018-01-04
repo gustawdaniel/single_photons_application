@@ -228,6 +228,26 @@
 
             <div class="col-lg-12">
                 <div id="vertical-timeline" class="vertical-container light-timeline center-orientation">
+                    <!--FROM THIS-->
+                    <div class="vertical-timeline-block">
+                        <div class="vertical-timeline-icon navy-bg">
+                            <i class="fa fa-file-text-o"></i>
+                        </div>
+
+                        <div class="vertical-timeline-content">
+                            <h2>Marta Misiaszek, Andrzej Gajewski, Piotr Kolenderski</h2>
+                            <h4>Dispersion measurement method with down conversion process</h4>
+                            <p>Proper characterization of nonlinear crystals is essential for designing single photon sources. We show a technique for dispersion characterization of a nonlinear material by making use of phase matching in the process of parametric down conversion. Our method is demonstrated on an exemplary periodically poled potassium titanyl phosphate (PPKTP) crystal phase-matched for 396 nm to 532 nm and 1550 nm. We show a procedure to characterize the dispersion in the range of 390 to 1800 nm by means of only one spectrometer for the UV-visible range. </p>
+                            <span class="vertical-date">
+                                <!--Today <br/> -->
+                                <!--<small class="date-padded-down">02.2017</small> -->
+                                <a target="_blank" href="https://arxiv.org/abs/1711.10232" class="btn btn-xs btn-primary">Arxiv:1711.10232</a>
+
+                            </span>
+                        </div>
+                    </div>
+                    <!--TO THIS-->
+
 
                     <!--FROM THIS-->
                     <div class="vertical-timeline-block">
@@ -441,7 +461,7 @@ Sources of photon pairs based on the spontaneous parametric down conversion proc
             <div class="col-lg-12 text-center">
                 <div class="navy-line"></div>
                 <h1>Our Team</h1>
-                <p>We are studying awesome aspects of quantum word.</p>
+                <!--<p>We are studying awesome aspects of quantum word.</p>-->
             </div>
         </div>
         <div class="row">
@@ -491,7 +511,7 @@ Sources of photon pairs based on the spontaneous parametric down conversion proc
         <br>
 
         <div class="row">
-            <div class="col-sm-4 wow fadeInLeft">
+            <div class="col-sm-3 wow fadeInLeft">
                 <div class="team-member">
                     <img src="assets/AndrzejGajewski.jpg" class="img-responsive img-circle img-small" alt="">
                     <h4><span class="navy">Andrzej</span> Gajewski</h4>
@@ -507,7 +527,7 @@ Sources of photon pairs based on the spontaneous parametric down conversion proc
                 </div>
             </div>
 
-            <div class="col-sm-4 wow fadeInDown">
+            <div class="col-sm-3 wow fadeInDown">
                 <div class="team-member">
                     <img src="assets/KarolinaSedziak_resized.jpg" class="img-responsive img-circle img-small" alt="">
                     <h4><span class="navy">Karolina</span> Sedziak</h4>
@@ -523,7 +543,7 @@ Sources of photon pairs based on the spontaneous parametric down conversion proc
                 </div>
             </div>
 
-            <div class="col-sm-4 wow fadeInRight">
+            <div class="col-sm-3 wow fadeInRight">
                 <div class="team-member">
                     <img src="assets/MariaGieysztor.jpg" class="img-responsive img-circle img-small" alt="">
                     <h4><span class="navy">Maria</span> Gieysztor</h4>
@@ -538,14 +558,65 @@ Sources of photon pairs based on the spontaneous parametric down conversion proc
                     </ul>-->
                 </div>
             </div>
+            
+            <div class="col-sm-3 wow fadeInRight">
+                <div class="team-member">
+                    <img src="assets/JakubSzlachetka.jpg" class="img-responsive img-circle img-small" alt="">
+                    <h4><span class="navy">Jakub</span> Szlachetka</h4>
+                    <p>student</p>
+<!--                    <ul class="list-inline social-icon">
+                        <li><a href="#"><i class="fa fa-twitter"></i></a>
+                        </li>
+                        <li><a href="#"><i class="fa fa-facebook"></i></a>
+                        </li>
+                        <li><a href="#"><i class="fa fa-linkedin"></i></a>
+                        </li>
+                    </ul>-->
+                </div>
+            </div>            
+            
+            
         </div>
 
 
-        <!--<div class="row">-->
-        <!--<div class="col-lg-8 col-lg-offset-2 text-center m-t-lg m-b-lg">-->
-        <!--<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>-->
-        <!--</div>-->
-        <!--</div>-->
+       <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 text-center m-t-lg m-b-lg">
+        <h3>Our visitors</h3>
+        </div>
+        </div>
+        
+         <div class="row">
+         
+            <div class="col-sm-3 wow fadeInRight">
+                <div class="team-member">
+                    <img src="assets/RohidahYosof.jpg" class="img-responsive img-circle img-small" alt="">
+                    <h4><span class="navy">Rohidah</span> Yosof</h4>
+                    <p>student, Malaysia</p>
+                    <p>March - May, 2018</p>
+                </div>
+            </div>            
+         
+            <div class="col-sm-3 wow fadeInRight">
+                <div class="team-member">
+                    <img src="assets/JacobGoddard.jpg" class="img-responsive img-circle img-small" alt="">
+                    <h4><span class="navy">Jacob</span> Goddard</h4>
+                    <p>student, Canada</p>
+                    <p>January - August, 2018</p>
+                </div>
+            </div>   
+         
+        
+       
+            <div class="col-sm-3 wow fadeInRight">
+                <div class="team-member">
+                    <img src="assets/TimWhittaker.jpg" class="img-responsive img-circle img-small" alt="">
+                    <h4><span class="navy">Tim</span> Whittaker</h4>
+                    <p>student, Canada</p>
+                    <p>June - August, 2017</p>
+                </div>
+            </div>   
+           
+           </div>  
     </div>
 </section>
 
