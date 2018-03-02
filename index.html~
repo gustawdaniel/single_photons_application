@@ -48,10 +48,10 @@
 
     <style>
         .landing-page .header-back.one {
-            background: url('../assets/banner1.jpg') 50% 0 no-repeat;
+            background: url('../assets/banner1.jpg') 25% 0 no-repeat;
         }
         .landing-page .header-back.two {
-        		background: url('../assets/banner2.jpg') 50% 0 no-repeat;
+        		background: url('../assets/banner2.jpg') 25% 0 no-repeat;
         }
         .landing-page .header-back.three {
         		background: url('../assets/taps2017baner.png') 50% 0 no-repeat;
