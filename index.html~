@@ -53,9 +53,9 @@
         .landing-page .header-back.two {
         		background: url('../assets/banner2.jpg') 25% 0 no-repeat;
         }
-        .landing-page .header-back.three {
+/*        .landing-page .header-back.three {
         		background: url('../assets/taps2017baner.png') 50% 0 no-repeat;
-        }        
+        } */       
         .landing-page .navbar-default .navbar-brand:hover,
         .landing-page .navbar-default .navbar-brand:focus
         {
@@ -163,7 +163,7 @@
 				<div class="header-back two	"></div>           
        </div>       
        
-        <div class="item">
+<!--        <div class="item">
             <div class="container">
                 <div class="carousel-caption">
                     <h2>The 2nd edition of the <a target=_blank href="https://www.fizyka.umk.pl/taps">TAPS program</a> open for applications.<br/></h2>
@@ -172,7 +172,7 @@
             </div>
             <!-- Set background for slide in css -->
 				<div class="header-back three	"></div>           
-       </div>          
+       </div>          -->
 
     </div>
     <a class="left carousel-control" href="#inSlider" role="button" data-slide="prev">
@@ -383,7 +383,7 @@ Sources of photon pairs based on the spontaneous parametric down conversion proc
 
 
         <div class="row">
-            <div class="col-lg-10 col-lg-offset-1">
+            <div class="col-lg-10 col-lg-offset-0	">
 
 
                 <div class="row">
@@ -427,38 +427,20 @@ Sources of photon pairs based on the spontaneous parametric down conversion proc
                             </p>
                         </div>
                     </div>
-<!--                     <div>
+                     <div>
                         <div class="ibox-content">
-                            <h2>Poster 1</h2>
+                           <!--  <h2>Poster 1</h2> -->
                             <p>
-                                <img class="in-column" src="assets/smp42.jpg" alt="">
+                                <a target="_blank" href="assets/Poster-2018-LDQC-QCMC.pdf">
+                                    <img class="in-column" src="assets/Poster-2018-LDQC-QCMC.jpg" alt="">
+                                </a>
                             </p>
                         </div>
                     </div>
-                    <div>
-                        <div class="ibox-content">
-                            <h2>Poster 1</h2>
-                            <p>
-                                <img class="in-column" src="http://via.placeholder.com/500x500" alt="">
-                            </p>
-                        </div>
-                    </div>
-                    <div>
-                        <div class="ibox-content">
-                            <h2>Poster 1</h2>
-                            <p>
-                                <img class="in-column" src="http://via.placeholder.com/500x500" alt="">
-                            </p>
-                        </div>
-                    </div>
-                    <div>
-                        <div class="ibox-content">
-                            <h2>Poster 1</h2>
-                            <p>
-                                <img class="in-column" src="http://via.placeholder.com/500x500" alt="">
-                            </p>
-                        </div>
-                    </div> -->
+                    
+                    
+                    
+
                 </div>
             </div>
         </div>
@@ -667,6 +649,7 @@ Sources of photon pairs based on the spontaneous parametric down conversion proc
                		<p><a target=_blank href="https://sites.google.com/site/urbasisinha/ ">Urbasi Sinha</a></p>
                 </div>
             </div>
+            
             <div class="ibox float-e-margins">
                 <div class="ibox-title">
                     <h5>Italy</h5>
@@ -675,6 +658,15 @@ Sources of photon pairs based on the spontaneous parametric down conversion proc
                     <p><a target=_blank href="http://www.everyphotoncounts.com">Alberto Tosi</a></p>
                 </div>
             </div>    
+            <div class="ibox float-e-margins">
+                <div class="ibox-title">
+                    <h5>Brazil</h5>
+                </div>
+                <div class="ibox-content">
+               		<p><a target=_blank href="https://sites.google.com/site/urbasisinha/ ">Leonardo Teixeira Neves</a></p>
+                </div>
+            </div>            
+            
      </div>  
         <div class="col-sm-6">  <!-- col-sm-offset-3-->
            <div class="ibox float-e-margins">
