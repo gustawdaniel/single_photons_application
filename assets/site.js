@@ -80,7 +80,8 @@ $(document).ready(function() {
             ITA: {fillKey: "active"},
             CZE: {fillKey: "active"},
 	         MYS: {fillKey: "active"},
-	    		BRA: {fillKey: "active"}
+	    		BRA: {fillKey: "active"},
+	    		NZL: {fillKey: "active"}
         }
     });
 
@@ -91,7 +92,8 @@ $(document).ready(function() {
             { origin: 'POL', destination: 'ITA'},
             { origin: 'POL', destination: 'CZE'},
  	    { origin: 'POL', destination: 'MYS'},
- 	      { origin: 'POL', destination: 'BRA'}
+ 	      { origin: 'POL', destination: 'BRA'},
+ 	      { origin: 'POL', destination: 'NZL'}
         ],
         { strokeColor: '#2BA587', strokeWidth: 1}
     );
